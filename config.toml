@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://pliu.rbind.io/"
 title = "Peng Liu"
 copyright = "&copy; 2017 Peng Liu"
 theme = "hugo-academic"
