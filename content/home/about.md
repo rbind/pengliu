@@ -25,5 +25,3 @@ widget: about
 # Biography
 
 Peng Liu is an associate professor in the Department of Statistics, Iowa State University. Her research interests include statistical genomics, bioinformatics, biostatistics, statistical inference for high-dimensional data, and Bayesian statistics.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
