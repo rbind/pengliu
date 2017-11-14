@@ -7,8 +7,6 @@ weight: 60
 widget: custom
 ---
 
-# This is an example of using the *custom* widget to create your own homepage section.
-
 I am a teaching instructor for the following courses at Iowa State University:
 
 - STAT 402: Design of Experiments
