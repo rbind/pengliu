@@ -5,11 +5,9 @@ education:
   - course: PhD in Biological Statistics and Computational Biology
     institution: Cornell University
     year: 2006
-  - course: MSc in Biological Statistics and Computational Biology
+ - course: MS in Nutritional Sciences
     institution: Cornell University
-    year: 2004
-  - course: MS in Nutritional Sciences
-    institution: Cornell University
+    year: 2001
   - course: BMed (Medical Degree) in Basic Medical Sicences
     institution: Peking University Health Science Center
     year: 1998
