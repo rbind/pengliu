@@ -10,7 +10,7 @@ education:
     year: 2004
   - course: MS in Nutritional Sciences
     institution: Cornell University
-  - course: BMed in Basic Medical Sicences
+  - course: BMed (Medical Degree) in Basic Medical Sicences
     institution: Peking University Health Science Center
     year: 1998
 interests:
