@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "pliu@iastate.edu"
   address = "2117 Snedecor Hall, Iowa State University, Ames IA 50011"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # office_hours = "Wednesdays and Thursdays 10:00 to 10:50am or email for appointment"
   phone = "515-294-7806"
   skype = ""
   telegram = ""
@@ -54,7 +54,7 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "Jan 2, 2018"
 
   # Show estimated reading time for posts?
   reading_time = true
