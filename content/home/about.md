@@ -13,7 +13,7 @@ education:
     year: 1998
 interests:
   interests:
-  - Statistical Genomics, Bioinformatics, Biostatistics
+  - Statistical Genomics, Biostatistics
   - Statistical Inference for High-dimensional Data
   - Bayesian Statistics
 weight: 5
