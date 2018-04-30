@@ -11,6 +11,9 @@ authors:
 - Michael Blanco
 - Thomas Lübberstedt
 date: 2017-06-20
+header:
+  caption: 'Gibberellins promote brassinosteroids action and both increase heterosis for plant height in maize (Zea mays L.)'
+  image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
 publication: In *Frontiers*.
@@ -18,7 +21,7 @@ publication_short: In *Frontiers*
 publication_types:
 - "2"
 selected: false
-title: Gibberellins promote brassinosteroids action and both increase heterosis for plant height in maize (Zea mays L.)
+title: "Hu S., Wang C., Sanchez D. L., Lipka A. E., Liu P., Yin Y., et al. (2017). Gibberellins promote brassinosteroids action and both increase heterosis for plant height in maize (Zea mays L.). Front. Plant Sci. 8:1039."
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.frontiersin.org/articles/10.3389/fpls.2017.01039/full
