@@ -1,6 +1,6 @@
 baseurl = "https://pliu.rbind.io/"
 title = "Peng Liu"
-copyright = "&copy; 2017 Peng Liu"
+copyright = "&copy; 2018 Peng Liu"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,8 +20,8 @@ defaultContentLanguageInSubdir = false
 [outputs]
   home = [ "HTML", "CSS" ]
 
-[blackfriday]
-  hrefTargetBlank = true
+#[blackfriday]
+#  hrefTargetBlank = true
 
 [params]
   # Color theme.
@@ -54,14 +54,14 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2018"
+  date_format = "Mon, Jan 2, 2006"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  # reading_time = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -95,7 +95,7 @@ defaultContentLanguageInSubdir = false
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  # sharing = true
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -169,34 +169,44 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "/publication/"
   weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Talks"
+  url = "/talk/"
+  weight = 3
 
-#[[menu.main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 4
+[[menu.main]]
+  name = "Grants"
+  url = "/grant/"
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "/teaching/"
   weight = 5
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Students"
+  url = "/student/"
   weight = 6
 
+[[menu.main]]
+  name = "CV"
+  url = "/Peng_Liu_CV.pdf"
+  weight = 7
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 8
+
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
