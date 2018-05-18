@@ -15,4 +15,6 @@ Ames, IA 50011
 
 Phone: (515) 294-7806
 
+Fax: (515) 294-4040
+
 Email: <A HREF="mailto:pliu@iastate.edu">pliu@iastate.edu</A>

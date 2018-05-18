@@ -4,8 +4,8 @@ abstract_short: ""
 authors:
 - Songlin Hu
 - Cuiling Wang
-- Darlene L Sanchez
-- Alexander E Lipka
+- Darlene L. Sanchez
+- Alexander E. Lipka
 - Peng Liu
 - Yanhai Yin
 - Michael Blanco
@@ -16,15 +16,18 @@ header:
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
-publication: In *Frontiers*.
+publication: In *Frontiers in Plant Science*.
 publication_short: In *Frontiers*
 publication_types:
 - "2"
 selected: false
-title: "Hu S., Wang C., Sanchez D. L., Lipka A. E., Liu P., Yin Y., et al. (2017). Gibberellins promote brassinosteroids action and both increase heterosis for plant height in maize (Zea mays L.). Front. Plant Sci. 8:1039."
+title: "S. Hu, C. Wang, D. Sanchez, A. Lipka, P. Liu, Y. Yin, M. Blanco, and T. Lubberstedt (2017). Gibberellins promote brassinosteroids action and both increase heterosis for plant height in maize (Zea mays L.). Frontiers in Plant Science, 8:1039."
+url_custom:
+- name: Link
+  url: https://www.frontiersin.org/articles/10.3389/fpls.2017.01039/full
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.frontiersin.org/articles/10.3389/fpls.2017.01039/full
+url_pdf: ""
 url_project: ""
 url_slides: ""
 url_video: ""
