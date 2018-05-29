@@ -16,9 +16,6 @@ education:
   - course: PhD in Biological Statistics and Computational Biology
     institution: Cornell University
     year: 2006
-  - course: MS in Biological Statistics and Computational Biology
-    institution: Cornell University
-    year: 2004
   - course: MS in Nutritional Sciences
     institution: Cornell University
     year: 2001
