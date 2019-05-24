@@ -1,6 +1,6 @@
 baseurl = "https://pliu.rbind.io/"
 title = "Peng Liu"
-copyright = "&copy; 2018 Peng Liu"
+copyright = "&copy; 2019 Peng Liu"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -141,10 +141,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:pliu@iastate.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
+#  [[params.social]]
+#    icon = "twitter"
+#    icon_pack = "fa"
+#    link = ""
 
   [[params.social]]
     icon = "google-scholar"
