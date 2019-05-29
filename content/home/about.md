@@ -4,7 +4,7 @@
 date: 2019-05-29T00:00:00
 
 # List your academic interests.
-interests:
+Interests:
   interests:
   - Statistical Genomics, Microbiome Data Analysis, Bioinformatics, Biostatistics
   - Statistical Inference for High-dimensional Data
@@ -25,6 +25,14 @@ education:
     institution: Peking University Health Science Center
     year: 1998
     
+# List your professional memberships
+Professional Memberships:
+  - American Statistical Association (ASA)
+  - International Chinese Statistical Association (ICSA)
+Editorial Activities:
+  - Associate Editor of BMC Bioinformatics, Jan 2012 to present
+  
+  
 # Order that this section will appear in.
 weight: 1
 widget: about
