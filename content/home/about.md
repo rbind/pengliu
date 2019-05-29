@@ -1,14 +1,16 @@
 ---
 # About/Biography widget.
 
-date: 2018-03-20T00:00:00
+date: 2019-05-29T00:00:00
 
 # List your academic interests.
 interests:
   interests:
-  - Statistical Genomics, Bioinformatics, Biostatistics
+  - Statistical Genomics, Microbiome Data Analysis, Bioinformatics, Biostatistics
   - Statistical Inference for High-dimensional Data
   - Bayesian Statistics
+  - Causal Inference
+  - Statistical Learning
 
 # List your qualifications (such as academic degrees).
 education:
