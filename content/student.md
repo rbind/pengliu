@@ -32,7 +32,7 @@ widget: student
 
 
 ### MS students
-1. **Ran Bi** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/biran1990), **Statistics**. *Sample size calculation while controlling false discovery rate for differential expression analysis with RNA-seq Data*, 2014. Now a PhD student at Iowa State University.
+1. **Ran Bi** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/biran1990), **Statistics**. *Sample size calculation while controlling false discovery rate for differential expression analysis with RNA-seq Data*, 2014. Graduated with Phd degree advised by Dr. Peng Liu in 2018, now working at FDA.
 2. **Yingzhou Du** (Co-Major Professor: Chong Wang), **Statistics**. *A Permutation Test of Genetic Association between Salmonella Isolated On-farm and At-abattoir using Amplified Fragment Length Polymorphism*, 2014. Now a Statistical Consultant at DuPont Pioneer.
 3. **[William Landau](https://wlandau.github.io/)** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/wlandau), **Statistics**. *Dispersion Estimation and Its Effect on Test Performance in RNA-seq Data Analysis: A Comparison of Methods*, 2013. Now a Research Scientist at Eli Lilly and Company.
 4. **Yanwen Xiong**, **Statistics**. *Comparison of normalization methods for RNA-seq data analysis*, 2012. Now Development Lead at Monsanto Company.
