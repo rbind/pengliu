@@ -14,7 +14,7 @@ widget: student
 3. **Wenting Zhao**, **Statistics**.
 
 ### MS students
-1. **Hao Wang**, Statistics.
+1. **Hao Wang**, **Statistics**.
 
 
 # Graduated Students
@@ -34,7 +34,7 @@ widget: student
 ### MS students
 1. **Ran Bi** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/biran1990), **Statistics**. *Sample size calculation while controlling false discovery rate for differential expression analysis with RNA-seq Data*, 2014. Now a PhD student at Iowa State University.
 2. **Yingzhou Du** (Co-Major Professor: Chong Wang), **Statistics**. *A Permutation Test of Genetic Association between Salmonella Isolated On-farm and At-abattoir using Amplified Fragment Length Polymorphism*, 2014. Now a Statistical Consultant at DuPont Pioneer.
-3. **[William Landau](https://wlandau.github.io/)** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/wlandau), **Statistics**. *Dispersion Estimation and Its Effect on Test Performance in RNA-seq Data Analysis: A Comparison of Methods*, 2013. Now a Research Scientist at Eli Lilly and Company. 
-4. **Yanwen Xiong**, Statistics. *Comparison of normalization methods for RNA-seq data analysis*, 2012. Now Development Lead at Monsanto Company.
-5. **Vanessa Kvam**, Statistics. *A comparison of statistical methods for detecting differentially expressed genes from RNA-seq data*, 2011. Now a Senior Biostatistician at AT Still University.
-6. **Hong Hua**, Statistics. *Microarray data analysis for a study of photosynthesis differentiation in maize*, 2009. Now a Senior Business analyst at Hewlett-Packard in China.
+3. **[William Landau](https://wlandau.github.io/)** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/wlandau), **Statistics**. *Dispersion Estimation and Its Effect on Test Performance in RNA-seq Data Analysis: A Comparison of Methods*, 2013. Now a Research Scientist at Eli Lilly and Company.
+4. **Yanwen Xiong**, **Statistics**. *Comparison of normalization methods for RNA-seq data analysis*, 2012. Now Development Lead at Monsanto Company.
+5. **Vanessa Kvam**, **Statistics**. *A comparison of statistical methods for detecting differentially expressed genes from RNA-seq data*, 2011. Now a Senior Biostatistician at AT Still University.
+6. **Hong Hua**, **Statistics**. *Microarray data analysis for a study of photosynthesis differentiation in maize*, 2009. Now a Senior Business analyst at Hewlett-Packard in China.
