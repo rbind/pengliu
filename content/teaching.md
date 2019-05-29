@@ -10,7 +10,7 @@ widget: teaching
 ## [Stat 500](http://stat.iastate.edu/)
 - Instructor for STAT 500: Statistical Methods I 
 - Iowa State University, Fall of 2018 
-- Taught 20-50 graduate students 
+- Taught 40-50 graduate students 
 - Responsibilities include: developing course materials, designing exams and class projects, giving lectures 
 - Teaching evaluation: 4.5/5.0
 
