@@ -34,10 +34,10 @@ Editorial Activities:
   
   
 # Order that this section will appear in.
-weight: 2
+weight: 1
 widget: about
 ---
 
 # Biography
 
-Peng Liu is an associate professor in the Department of Statistics, Iowa State University. Her research interests include statistical genomics, bioinformatics, biostatistics, statistical inference for high-dimensional data, and Bayesian statistics.
+Peng Liu is an associate professor in the [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University](https://www.iastate.edu/). Her research interests include Statistical Genomics, Statistical Inference, Bayesian Statistics and so on. She is also an associate editor of [BMC bioinformatics](https://bmcbioinformatics.biomedcentral.com/) since January 2012 and active member in [American Statistical Association](https://www.amstat.org/) and [International Chinese Statistical Association](http://www.icsa.org/icsa/).
