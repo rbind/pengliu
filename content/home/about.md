@@ -34,7 +34,7 @@ Editorial Activities:
   
   
 # Order that this section will appear in.
-weight: 1
+weight: 2
 widget: about
 ---
 
