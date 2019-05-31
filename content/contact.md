@@ -1,6 +1,6 @@
 ---
 autolink: true
-date: 2019-05-23T00:00:00
+date: 2019-05-31T00:00:00
 draft: false
 subtitle: ""
 title: Contact
@@ -17,4 +17,6 @@ Phone: (515) 294-7806
 
 Fax: (515) 294-4040
 
-Email: <A HREF="mailto:pliu@iastate.edu">pliu@iastate.edu</A>
+Email: pliu at iastate dot edu
+
+# <A HREF="mailto:pliu@iastate.edu">pliu@iastate.edu</A>

@@ -1,9 +1,7 @@
 ---
 date: 2018-11-01
 title: "A Bayesian approach based on a hierarchical Poisson hurdle model for differential abundance analysis of microbiome data"
-abstract: Need to be added.
-abstract_short: ""
-event: ''
+event: 'Campus Talk'
 event_url: ''
 location: 'University of Delaware, Newark, Delaware, USA'
 header:

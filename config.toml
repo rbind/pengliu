@@ -183,24 +183,29 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
+  name = "Awards"
+  url = "/awards/"
+  weight = 5
+
+[[menu.main]]
   name = "Teaching"
   url = "/teaching/"
-  weight = 5
+  weight = 6
 
 [[menu.main]]
   name = "Students"
   url = "/student/"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "CV"
   url = "/Peng_Liu_CV_05_2019.pdf"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 8
+  weight = 9
 
 # Taxonomies.
 #[taxonomies]
