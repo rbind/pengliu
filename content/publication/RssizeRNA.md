@@ -10,6 +10,10 @@ header:
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
+publication: In *PLoS ONE*.
+publication_short: In *PLoS ONE*
+publication_types:
+- "2"
 selected: true
 title: "R. Bi, P. Liu, R Package ssizeRNA: Sample Size Calculation for RNA-Seq Experimental Design"
 url_code: ''
