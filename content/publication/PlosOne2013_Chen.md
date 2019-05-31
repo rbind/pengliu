@@ -15,7 +15,7 @@ publication: In *PLoS ONE*.
 publication_short: In *PLoS ONE*
 publication_types:
 - "2"
-selected: false
+selected: true
 title: "X. Chen, P. Liu, and H-H. Chou (2013). Whole-genome thermodynamic analysis reduces siRNA off-target effects. PLoS ONE 8(3):e58326."
 url_custom:
 - name: Link
