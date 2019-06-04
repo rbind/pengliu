@@ -3,7 +3,7 @@ date: "2012-07-31"
 # Grant title.
 title: "Comparative analysis of C3 and C4 leaf development in rice, sorghum and maize"
 # Grant summary to display on homepage.
-summary: "**PI**, *08/01/2007 - 07/31/2012*"
+summary: "**Co-PI**, *08/01/2007 - 07/31/2012*"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: [""]

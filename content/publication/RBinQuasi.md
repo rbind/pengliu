@@ -6,11 +6,11 @@ authors:
 - Peng Liu
 date:	2018-07-27
 header:
-  caption: 'Analyzing Replicated ChIP Sequencing Data Using Quasi-Likelihood'
+  caption: 'R Package BinQuasi: Analyzing Replicated ChIP Sequencing Data Using Quasi-Likelihood'
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
-selected: true
+selected: false
 title: "E. Goren, P. Liu, R Package BinQuasi: Analyzing Replicated ChIP Sequencing Data Using Quasi-Likelihood"
 url_code: ''
 url_custom:

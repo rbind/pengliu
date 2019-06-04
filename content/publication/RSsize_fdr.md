@@ -6,11 +6,11 @@ authors:
 - Peng Liu
 date: 2015-02-22
 header:
-  caption: 'Sample Size Calculations for Microarray Experiments'
+  caption: 'R Package ssize.fdr: Sample Size Calculations for Microarray Experiments'
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
-selected: true
+selected: false
 title: "M. Orr, P. Liu, R Package ssize.fdr: Sample Size Calculations for Microarray Experiments"
 url_code: ''
 url_custom:

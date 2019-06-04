@@ -6,11 +6,11 @@ authors:
 - Peng Liu
 date: 2012-10-29
 header:
-  caption: 'Model-Based Clustering for RNA-seq Data'
+  caption: 'R Package MBCluster.Seq: Model-Based Clustering for RNA-seq Data'
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
-selected: true
+selected: false
 title: "Y. Si, P. Liu, R Package MBCluster.Seq: Model-Based Clustering for RNA-seq Data"
 url_code: ''
 url_custom:

@@ -15,10 +15,6 @@ header:
   image: ""
 ---
 
-### Abstract
-
-### PIs
-
 ### Source of Support
 [Plant Sciences Institute, Iowa State University](https://plantsciences.iastate.edu/)
 

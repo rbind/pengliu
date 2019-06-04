@@ -1,6 +1,7 @@
 ---
 authors:
 - Peng Liu
+- Yaqing Si
 date: 2012-02-01
 header:
   caption: 'Cluster Analysis of RNA-sequencing Data'
@@ -12,7 +13,7 @@ publication_short: In *Springer*
 publication_types:
 - "6"
 selected: true
-title: "Book Chapter: Cluster Analysis of RNA-sequencing Data (2014), in the book of Statistical Analysis of Next Generation Sequencing Data"
+title: "P. Liu, and Y. Si (2014), Book Chapter: Cluster Analysis of RNA-sequencing Data, in the book of Statistical Analysis of Next Generation Sequencing Data"
 url_code: ''
 url_custom:
 - name: Link

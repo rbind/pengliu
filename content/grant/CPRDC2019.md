@@ -15,15 +15,12 @@ header:
   image: ""
 ---
 
-### [Abstract]()
 
 ### PIs
-C. Wang; Z. He; P. Liu; and D-K Lee.
+C. Wang(PI); Z. He; **P. Liu**; and D-K Lee.
 
 ### Source of Support
 [Central Plains Research Data Center](https://business.unl.edu/outreach/central-plains-federal-statistical-research-data-center/)
-
-### Total Award Amount
 
 
 ### Total Award Period Covered
