@@ -3,8 +3,8 @@ date: 2012-10-01
 title: "An optimal test for detecting differential expression using RNA-seq data"
 abstract: "The recent RNA-seq technology is an attractive method to study gene expression. One of the most important goals in RNA-seq data analysis is to detect genes differentially expressed across treatments. Although several statistical methods have been published, there are no theoretical justifications for whether these methods are optimal or how to search for the optimal test. Furthermore, most proposed tests are designed for testing whether the mean expression levels are exactly the same or not across treatments, whereas sometimes, biologists are interested in detecting genes with expression changes larger than a certain threshold. Another issue with current methods is that the false discovery rate (FDR) control is not well studied. In this manuscript, we propose a test to address all the above issues. Under model assumptions, we derive an optimal test that achieves the maximum of average power among those that control FDR at the same level. We also provide an approximated version, the approximated most average powerful (AMAP) test, for practical implementation. The proposed method allows for testing null hypotheses that are much more general than the ones most previous studies have considered, and it leads to a natural way of controlling the FDR. Through simulation studies, we show that our test has a higher power than other methods, including the widely-used edgeR, DESeq, and baySeq methods, as well as better FDR control than two other FDR control procedures commonly used in practice. For demonstration, we also apply the proposed method to a real RNA-seq dataset obtained from maize."
 abstract_short: ""
-event: ''
-event_url: ''
+event: 'University of Missouri'
+event_url: 'https://missouri.edu/'
 location: "University of Missouri, Columbia, Missouri, USA"
 header:
   caption: 'An optimal test for detecting differential expression using RNA-seq data'
