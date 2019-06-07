@@ -9,6 +9,7 @@ widget: student
 ---
 
 # Current Students
+
 ### PhD students
 2. **[Emily Goren](http://emilygoren.github.io/)** [<i class="fa fa-github-alt" style="color:#03396c;font-size:80%;padding-top:6px;"></i>](https://github.com/emilygoren), **Statistics**.
 3. **Wenting Zhao**, **Statistics**.
