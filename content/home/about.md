@@ -29,7 +29,7 @@ education:
   
 # Order that this section will appear in.
 weight: 1
-widget: about
+widget: about 
 ---
 
 # Biography
