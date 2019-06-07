@@ -8,7 +8,7 @@ weight: 60
 widget: awards
 ---
 
-# *Honors And Awards*
+## *Honors And Awards*
 
 #### Iowa State University Plant Sciences Institute Scholar, 2018 - present
 #### Iowa State University College of Liberal Arts And Sciences Award for Mid-Career Achievement in Research, 2018
