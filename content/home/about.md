@@ -28,7 +28,7 @@ education:
   
   
 # Order that this section will appear in.
-weight: 2
+weight: 1
 widget: about 
 ---
 
