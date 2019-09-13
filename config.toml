@@ -1,5 +1,4 @@
-baseurl = "https://pliu.rbind.io"
-# baseurl = "https://pliu.rbind.io/"
+baseurl = "https://pliu.rbind.io/"
 # publishDir= "https://pliu.rbind.io"
 title = "Peng Liu"
 copyright = "&copy; 2019 Peng Liu"
