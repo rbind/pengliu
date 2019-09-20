@@ -7,7 +7,7 @@ date: 2019-09-13T00:00:00
 Interests:
   interests:
   - Statistical Analysis of "-omics" Data
-  - Statistical Inference for High-dimensional Data
+  - Statistical Inference for High-dimensional Data.
   - Bayesian Statistics
   - Causal Inference
   - Statistical Learning
