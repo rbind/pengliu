@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Department of Statistics, Iowa State University", url = "https://stat.iastate.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "PL.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   #email = "pliu@iastate.edu"
   address = "2117 Snedecor Hall, Iowa State University, Ames IA 50011"
   # office_hours = "Wednesdays and Thursdays 10:00 to 10:50am or email for appointment"
