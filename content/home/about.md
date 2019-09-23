@@ -1,13 +1,13 @@
 ---
 # About/Biography widget.
 
-date: 2019-09-13T00:00:00
+date: 2019-09-23T00:00:00
 
 # List your academic interests.
 Interests:
   interests:
   - Statistical Analysis of "-omics" Data
-  - Statistical Inference for High-dimensional Data.
+  - Statistical Inference for High-dimensional Data
   - Bayesian Statistics
   - Causal Inference
   - Statistical Learning
