@@ -1,11 +1,11 @@
 ---
 date: 2018-11-01
-title: "A Bayesian approach based on a hierarchical Poisson hurdle model for differential abundance analysis of microbiome data"
+title: "A Semi-Parametric Bayesian Approach for Detection of Gene Expression Heterosis with RNA-Seq Data"
 event: 'University of Delaware'
 event_url: 'https://www.udel.edu/'
 location: 'University of Delaware, Newark, Delaware, USA'
 header:
-  caption: 'A Bayesian approach based on a hierarchical Poisson hurdle model for differential abundance analysis of microbiome data'
+  caption: 'A Semi-Parametric Bayesian Approach for Detection of Gene Expression Heterosis with RNA-Seq Data'
   image: ''
 selected: true
 math: true
