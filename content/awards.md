@@ -10,20 +10,20 @@ widget: awards
 
 ## Honors And Awards
 
-Iowa State University Plant Sciences Institute Scholar, 2018-present
+1. Iowa State University Plant Sciences Institute Scholar, 2018-present
 
-College of Liberal Arts and Sciences Award for Mid-Career Achievement in Research, 2018
+2. College of Liberal Arts and Sciences Award for Mid-Career Achievement in Research, 2018
 
-Iowa State University College of Agriculture and Life Sciences Team Award, 2015 
+3. Iowa State University College of Agriculture and Life Sciences Team Award, 2015 
 
-Iowa State University Award for Early Achievement in Research, 2013
+4. Iowa State University Award for Early Achievement in Research, 2013
 
-Graduate School Travel Award and Fellowship, Cornell University, 2005
+5. Graduate School Travel Award and Fellowship, Cornell University, 2005
 
-Student Research Grant Award, School of Industrial and Labor Relations, Cornell University, 2004
+6. Student Research Grant Award, School of Industrial and Labor Relations, Cornell University, 2004
 
-Graduate School Travel Award and Fellowship, Cornell University, 2003
+7. Graduate School Travel Award and Fellowship, Cornell University, 2003
 
-Barns Fellowship, Cornell University, 2000
+8. Barns Fellowship, Cornell University, 2000
 
-Student Research Grant Award of Division of Nutritional Sciences, Cornell University, 2000
+9. Student Research Grant Award of Division of Nutritional Sciences, Cornell University, 2000
