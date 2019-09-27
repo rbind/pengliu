@@ -1,5 +1,5 @@
 ---
-date: 2018-11-01
+date: 2018-11-16
 title: "A Semi-Parametric Bayesian Approach for Detection of Gene Expression Heterosis with RNA-Seq Data"
 event: 'University of Delaware'
 event_url: 'https://www.udel.edu/'

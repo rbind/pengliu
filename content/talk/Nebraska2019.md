@@ -1,5 +1,5 @@
 ---
-date: 2019-10-01
+date: 2019-10-23
 title: "Campus Talk"
 event: 'University of Nebraska'
 event_url: 'https://www.iastate.edu/'

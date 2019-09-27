@@ -1,15 +1,15 @@
 ---
 autolink: true
-date: 2019-09-25T00:00:00
+date: 2019-09-27T00:00:00
 draft: false
 subtitle: ""
 title: 
-weight: 50
+weight: 7
 widget: teaching
 ---
 ## Stat 500
 - Instructor for STAT 500: Statistical Methods I 
-- Iowa State University, Fall of 2018 
+- Iowa State University, Fall of 2018, 2019 
 - Teaching evaluation: 4.5/5.0
 
 ## STAT 516
@@ -18,7 +18,7 @@ widget: teaching
 
 ## STAT 402
 - Instructor for STAT 402: Statistical Design 
-- Iowa State University, Spring of 2011, 2012, 2013, Fall of 2012, 2013, 2014, 2016, 2017 
+- Iowa State University, Spring of 2011, 2012, 2013, Fall of 2012, 2013, 2014, 2016, 2017, 2019 
 - Teaching evaluation: 4.2-5.0/5.0
 
 ## STAT 416

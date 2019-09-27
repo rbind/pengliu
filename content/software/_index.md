@@ -4,9 +4,9 @@ header:
   caption: ""
   image: ""
 highlight: false
+list_format: 0
 math: false
-list_format: 1
-title: Grants
-weight: 5
+title: Softwares
+weight: 3
 ---
 

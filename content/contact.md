@@ -4,7 +4,7 @@ date: 2019-09-25T00:00:00
 draft: false
 subtitle: ""
 title: Contact
-weight: 70
+weight: 10
 widget: contact
 ---
 
