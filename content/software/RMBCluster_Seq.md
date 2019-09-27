@@ -1,7 +1,7 @@
 ---
 title: R Package MBCluster.Seq
 date: 2019-07-30
-summary: " "
+summary: "2012-10-29"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]

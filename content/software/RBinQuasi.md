@@ -1,7 +1,7 @@
 ---
 title: R Package BinQuasi
 date: 2019-09-25
-summary: " "
+summary: "2018-07-27"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]

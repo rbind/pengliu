@@ -1,7 +1,7 @@
 ---
 title: R Package ssizeRNA
 date: 2019-09-27
-summary: " "
+summary: "2019-02-19"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]

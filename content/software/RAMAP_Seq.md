@@ -1,7 +1,7 @@
 ---
 date: 2019-07-27
 title: R Package AMAP.Seq
-summary: " "
+summary: "2012-06-19"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]
