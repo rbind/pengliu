@@ -34,7 +34,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Peng Liu"
-  role = "Associate Professor"
+  role = "Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
