@@ -1,6 +1,6 @@
 baseurl = "https://pliu.rbind.io/"
 title = "Peng Liu"
-copyright = "&copy; 2019 Peng Liu"
+copyright = "&copy; 2021 Peng Liu"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -204,7 +204,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "/Peng_Liu_CV_05_2019.pdf"
+  url = "/Peng_Liu_CV_9_2021.pdf"
   weight = 9
 
 [[menu.main]]

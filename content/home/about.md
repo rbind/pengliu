@@ -1,16 +1,18 @@
 ---
 # About/Biography widget.
 
-date: 2020-04-03T00:00:00
+date: 2021-09-08T00:00:00
 
 # List your academic interests.
 Interests:
   interests:
-  - Statistical Analysis of "-omics" Data
+  
+  - Statistical Genomics, omics Data Analysis
+  - Microbiome Data Analysis
   - Statistical Inference for High-dimensional Data
-  - Bayesian Statistics
   - Causal Inference
   - Statistical Learning
+
 
 # List your qualifications (such as academic degrees).
 education:
