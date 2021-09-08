@@ -1,6 +1,6 @@
 ---
 autolink: true
-date: 2019-12-25T00:00:00
+date: 2021-09-07T00:00:00
 draft: false
 subtitle: ""
 title:
@@ -10,9 +10,6 @@ widget: awards
 
 ## Honors And Awards
 
-  - Iowa State University Plant Sciences Institute Scholar, 2018-present
-
-  
   - Iowa State University Plant Sciences Institute Scholar, 2018-present
   
   - College of Liberal Arts and Sciences Award for Mid-Career Achievement in Research, 2018
