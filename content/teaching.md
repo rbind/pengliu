@@ -8,7 +8,7 @@ weight: 7
 widget: teaching
 ---
 
-## STAT 471/571
+## STAT 471\571
 - Instructor for STAT 471/571: Statistical Design and the Analysis of Experiments
 - Iowa State University, Spring of 2022
 - This is a course of experimental design for undergraduate majoring in statistics and graduate students outside of statistics (math, physics, engineering).

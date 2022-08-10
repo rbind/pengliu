@@ -20,20 +20,16 @@ R Package HPclust: model-based clustering with microbiome count data
 
 ### Abstract
 
-An Approximated Most Average Powerful Test with Optimal FDR Control with Application to RNA-seq Data.
+Model-based clustering with microbiome count data
 
 ### Authors
 
-  - Yaqing Si
-  - Peng Liu
 
 ### Published
 
-2012-06-19
+2022
 
 
 ### Link 
-
-https://cran.r-project.org/web/packages/AMAP.Seq/index.html
 
 
