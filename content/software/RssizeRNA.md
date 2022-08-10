@@ -9,7 +9,7 @@ tags: ["R package"]
 math: false
 # Optional featured image (relative to static/img/ folder).
 header:
-  caption: "Central Plains Research Data Center seed award"
+  caption: ""
   image: ""
 ---
 

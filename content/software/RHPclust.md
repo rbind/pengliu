@@ -1,7 +1,7 @@
 ---
-title: R Package MBCluster.Seq
-date: 2019-07-30
-summary: "2012-10-29"
+date: 2022-08-10
+title: R Package HPclust
+summary: "2022"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]
@@ -14,10 +14,13 @@ header:
 ---
 
 ### Title
-Y. Si, P. Liu, R Package MBCluster.Seq: Model-Based Clustering for RNA-seq Data
+
+R Package HPclust: model-based clustering with microbiome count data
+
 
 ### Abstract
-Cluster genes based on Poisson or Negative-Binomial model for RNA-Seq or other digital gene expression (DGE) data.
+
+An Approximated Most Average Powerful Test with Optimal FDR Control with Application to RNA-seq Data.
 
 ### Authors
 
@@ -25,12 +28,12 @@ Cluster genes based on Poisson or Negative-Binomial model for RNA-Seq or other d
   - Peng Liu
 
 ### Published
-2012-10-29
 
-### Link
-
-https://cran.r-project.org/web/packages/MBCluster.Seq/index.html
+2012-06-19
 
 
+### Link 
+
+https://cran.r-project.org/web/packages/AMAP.Seq/index.html
 
 
