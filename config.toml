@@ -1,6 +1,6 @@
 baseurl = "https://pliu.rbind.io/"
 title = "Peng Liu"
-copyright = "&copy; 2021 Peng Liu"
+copyright = "&copy; 2024 Peng Liu"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
