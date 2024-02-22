@@ -9,4 +9,4 @@ index.html
 https:
 .hugo_build.lock
 .Rprofile
-.netlify.toml
+.netlify

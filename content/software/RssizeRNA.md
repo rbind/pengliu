@@ -14,6 +14,7 @@ header:
 ---
 
 ### Title
+
 R. Bi, P. Liu, R Package ssizeRNA: Sample Size Calculation for RNA-Seq Experimental Design
 
 

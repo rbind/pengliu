@@ -1,7 +1,7 @@
 ---
-date: 2022-08-10
 title: R Package HPclust
-summary: "2022"
+date: 2022-02-08
+summary: "2022-02-19"
 # Tags: can be used for filtering projects.
 # Example: tags = ["machine-learning", "deep-learning"]
 tags: ["R package"]
@@ -20,16 +20,18 @@ R Package HPclust: model-based clustering with microbiome count data
 
 ### Abstract
 
-Model-based clustering with microbiome count data
+Clustering analysis for sparse microbiome data, based on a Poisson hurdle model.
 
 ### Authors
 
+  - Zhili Qiao
+  - Peng Liu
 
 ### Published
 
-2022
+2022-02-08
 
 
 ### Link 
-
+https://cran.r-project.org/web/packages/PHclust/index.html
 
