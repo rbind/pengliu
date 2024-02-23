@@ -226,6 +226,8 @@ defaultContentLanguageInSubdir = false
   languageCode = "en-us"
 
 [markup]
+  defaultMarkdownHandler = "goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+
