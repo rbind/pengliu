@@ -4,6 +4,7 @@
 date: 2024-02-20T00:00:00
 
 # List your academic interests.
+
 Interests:
   interests:
   
@@ -15,6 +16,7 @@ Interests:
 
 
 # List your qualifications (such as academic degrees).
+
 education:
   courses:
   - course: PhD in Biological Statistics and Computational Biology

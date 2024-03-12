@@ -1,17 +1,13 @@
 ---
-abstract: Microbiome studies have uncovered associations between microbes and human, animal, and plant health outcomes. This has led to an interest in developing microbial interventions for treatment of disease and optimization of crop yields which requires identification of microbiome features that impact the outcome in the population of interest. That task is challenging because of the high dimensionality of microbiome data and the confounding that results from the complex and dynamic interactions among host, environment, and microbiome. In the presence of such confounding, variable selection and estimation procedures may have unsatisfactory performance in identifying microbial features with an effect on the outcome. In this manuscript, we aim to estimate population-level effects of individual microbiome features while controlling for confounding by a categorical variable. Due to the high dimensionality and confounding-induced correlation between features, we propose feature screening, selection, and estimation conditional on each stratum of the confounder followed by a standardization approach to estimation of population-level effects of individual features. Comprehensive simulation studies demonstrate the advantages of our approach in recovering relevant features. Utilizing a potential-outcomes framework, we outline assumptions required to ascribe causal, rather than associational, interpretations to the identified microbiome effects. We conducted an agricultural study of the rhizosphere microbiome of sorghum in which nitrogen fertilizer application is a confounding variable. In this study, the proposed approach identified microbial taxa that are consistent with biological understanding of potential plant-microbe interactions. Standardization enables more accurate identification of individual microbiome features with an effect on the outcome of interest compared to other variable selection and estimation procedures when there is confounding by a categorical variable.
+abstract: Motivation: High-throughput sequencing technologies have greatly facilitated microbiome research and have generated a large volume of microbiome data with the potential to answer key questions regarding microbiome assembly, structure and function. Cluster analysis aims to group features that behave similarly across treatments, and such grouping helps to highlight the functional relationships among features and may provide biological insights into microbiome networks. However, clustering microbiome data are challenging due to the sparsity and high dimensionality. Results: We propose a model-based clustering method based on Poisson hurdle models for sparse microbiome count data. We describe an expectation-maximization algorithm and a modified version using simulated annealing to conduct the cluster analysis. Moreover, we provide algorithms for initialization and choosing the number of clusters. Simulation results demonstrate that our proposed methods provide better clustering results than alternative methods under a variety of settings. We also apply the proposed method to a sorghum rhizosphere microbiome dataset that results in interesting biological findings.
 abstract_short: ""
 authors:
-- Emily Goren
-- Chong Wang
-- Zhulin He
-- Amy M. Sheflin
-- Dawn Chiniquy
-- Jessica E. Prenni
+- Zhili Qiao
+- Elle Barnes
 - Susannah Tringe
-- Daniel P. Schachtman
+- Daniel P Schachtman
 - Peng Liu 
-date: 2021-07-06
+date: 2023-01-01
 header:
   caption: 'Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization'
   image: headers/bubbles-wide.jpg
@@ -22,10 +18,10 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "E. Goren, C. Wang, Z. He, A. Sheflin, D. Chiniquy, J. Prenni, S. Tringe, D. Schachtman, P. Liu*, Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization. BMC Bioinformatics 22, 362 (2021)"
+title: "Z. Qiao, E Barnes, S Tringe, D Schachtman, P Liu (2023). Poisson hurdle model-based method for clustering microbiome features. Bioinformatics."
 url_custom:
 - name: Link
-  url: https://doi.org/10.1186/s12859-021-04232-2
+  url: https://doi.org/10.1093/bioinformatics/btac782
 url_code: ""
 url_dataset: ""
 url_pdf: ""

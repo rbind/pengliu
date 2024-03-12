@@ -17,7 +17,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "E. Goren, P. Liu*, C. Wang, and C. Wang (2018). BinQuasi: a peak detection method for ChIP-sequencing data with biological replicates. Bioinformatics."
+title: "E. Goren, P. Liu, C. Wang, and C. Wang (2018). BinQuasi: a peak detection method for ChIP-sequencing data with biological replicates. Bioinformatics."
 url_custom:
 - name: Link
   url: https://doi.org/10.1093/bioinformatics/bty227
