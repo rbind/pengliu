@@ -20,7 +20,7 @@ publication_short: In *BMC Genomics*
 publication_types:
 - "2"
 selected: false
-title: "M. I. Natukundaa, M. B. Mantilla-Pereza,b, M. A. Grahama,c, P. Liu, and M. G. Salas-Fernandez (2022), Dissection of canopy layer-specific genetic control of leaf angle in Sorghum bicolor by RNA sequencing, BMC Genomics, 23, 95."
+title: "M. I. Natukundaa, M. B. Mantilla-Pereza,b, M. A. Grahama,c, P. Liu*, and M. G. Salas-Fernandez (2022). Dissection of canopy layer-specific genetic control of leaf angle in Sorghum bicolor by RNA sequencing, BMC Genomics, 23, 95."
 url_custom:
 - name: Link
   url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08251-4

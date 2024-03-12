@@ -20,7 +20,7 @@ publication_short:
 publication_types:
 - "2"
 selected: true
-title: "J. Zhao, Y. Qi, P. Liu, A. Severin, M. Sayadi, I. Paetau-Robinson, W.S. White, (2021). Prebiotic Effects of a Cranberry Beverage in a Randomized, Placebo-Controlled, Crossover Clinical Trial. Current Developments in Nutrition, 5(2), 1190."
+title: "J. Zhao, Y. Qi*, P. Liu*, A. Severin, M. Sayadi, I. Paetau-Robinson, W.S. White, (2021). Prebiotic Effects of a Cranberry Beverage in a Randomized, Placebo-Controlled, Crossover Clinical Trial. Current Developments in Nutrition, 5(2), 1190."
 url_code: ''
 url_custom:
 - name: Link

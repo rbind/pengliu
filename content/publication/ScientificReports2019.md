@@ -25,7 +25,7 @@ publication_short:
 publication_types:
 - "2"
 selected: true
-title: "L. A. Laboissonniere, J. J. Goetz, G. M. Martin, R. Bi, T. J.S. Lund, L. Ellson, M. R. Lynch, B. Mooney, H. Wickham, A. Mani, P. Liu, G. W. Schwartz, and J. M. Trimarchi (2019), Molecular signatures of retinal ganglion cells revealed through single cell profiling, Scientific Reports."
+title: "L. A. Laboissonniere, J. J. Goetz, G. M. Martin, R. Bi, T. J.S. Lund, L. Ellson, M. R. Lynch, B. Mooney, H. Wickham, A. Mani, P. Liu, G. W. Schwartz, and J. M. Trimarchi (2019). Molecular signatures of retinal ganglion cells revealed through single cell profiling, Scientific Reports."
 url_code: ''
 url_custom:
 - name: Link

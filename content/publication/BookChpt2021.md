@@ -1,10 +1,13 @@
 ---
 authors:
 - Peng Liu
-- Yaqing Si
-date: 2012-02-01
+- Emily Goren
+- Paul Morris
+- David Walker
+- Chong Wang
+date: 2021-02-01
 header:
-  caption: 'Cluster Analysis of RNA-sequencing Data'
+  caption: 'Statistical Methods for Feature Selection in Microbiome Studies'
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
@@ -13,11 +16,11 @@ publication_short: In *Springer*
 publication_types:
 - "6"
 selected: true
-title: "P. Liu, and Y. Si (2014), Book Chapter: Cluster Analysis of RNA-sequencing Data, in the book of Statistical Analysis of Next Generation Sequencing Data"
+title: "P. Liu*, E. Goren*, P. Morris, D. Walker*, and C. Wang, Statistical Methods for Feature Selection in Microbiome Studies (2021), invited book chapter for Statistical Analysis of Microbiome Data, Springer"
 url_code: ''
 url_custom:
 - name: Link
-  url: https://www.springer.com/us/book/9783319072111
+  url: 
 url_dataset: ''
 url_pdf: ""
 url_project: ''

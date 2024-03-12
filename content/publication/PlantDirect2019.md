@@ -26,7 +26,7 @@ publication_short: In *Plant Direct*
 publication_types:
 - "2"
 selected: false
-title: "A. Sheflin, D. Chiniquy, C. Yuan, E. Goren, I. Kumar, M. Braud, T. Brutnell, A. Eveland, S. Tringe, P. Liu, S. Kresovich, E. Marsh, D. Schachtman, and J. Prenni (2019), Metabolomics of sorghum roots during nitrogen stress reveals compromised metabolic capacity for defense response, Plant Direct."
+title: "A. Sheflin, D. Chiniquy, C. Yuan*, E. Goren*, I. Kumar, M. Braud, T. Brutnell, A. Eveland, S. Tringe, P. Liu*, S. Kresovich, E. Marsh, D. Schachtman, and J. Prenni (2019). Metabolomics of sorghum roots during nitrogen stress reveals compromised metabolic capacity for defense response, Plant Direct."
 url_custom:
 - name: Link
   url: https://doi.org/10.1002/pld3.122

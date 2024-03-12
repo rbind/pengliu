@@ -20,7 +20,7 @@ publication_short:
 publication_types:
 - "2"
 selected: true
-title: "P. Kanodia, V. Paramasivan, R. Srivastava, R. Bi, P. Liu, W. A. Miller, S. H. Howell (2020), Control of translation during the unfolded protein response in maize seedlings: Life without PERKs, Plant Direct."
+title: "P. Kanodia, V. Paramasivan, R. Srivastava, R. Bi*, P. Liu*, W. A. Miller, S. H. Howell (2020). Control of translation during the unfolded protein response in maize seedlings: Life without PERKs, Plant Direct."
 url_code: ''
 url_custom:
 - name: Link

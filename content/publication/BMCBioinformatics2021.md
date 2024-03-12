@@ -22,7 +22,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "E. Goren*, C. Wang, Z. He, A. Sheflin, D. Chiniquy, J. Prenni, S. Tringe, D. Schachtman, P. Liu*, Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization. BMC Bioinformatics 22, 362 (2021)"
+title: "E. Goren*, C. Wang, Z. He, A. Sheflin, D. Chiniquy, J. Prenni, S. Tringe, D. Schachtman, P. Liu* (2021). Feature selection and causal analysis for microbiome studies in the presence of confounding using standardization. BMC Bioinformatics 22, 362"
 url_custom:
 - name: Link
   url: https://doi.org/10.1186/s12859-021-04232-2

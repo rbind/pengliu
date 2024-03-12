@@ -22,7 +22,7 @@ publication_short: In *eLife*
 publication_types:
 - "2"
 selected: true
-title: "J. C. Berry, M. Qi, B. V. Sonawane, A. Sheflin, A. B. Cousins, J. Prenni, D. P. Schachtman, P. Liu, R. S. Bart (2022), Increased signal to noise ratios within experimental field trials by regressing spatially distributed soil properties as principal components, eLife 11:e70056."
+title: "J. C. Berry, M. Qi, B. V. Sonawane, A. Sheflin, A. B. Cousins, J. Prenni, D. P. Schachtman, P. Liu*, R. S. Bart (2022). Increased signal to noise ratios within experimental field trials by regressing spatially distributed soil properties as principal components, eLife 11:e70056."
 url_code: ''
 url_custom:
 - name: Link

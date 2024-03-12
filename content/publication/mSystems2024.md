@@ -22,7 +22,7 @@ publication_short: In *mSystems*
 publication_types:
 - "2"
 selected: false
-title: "YN Chai, Y Qi*, E Goren*, D Chiniquy, AM Sheflin, SG Tringe, JE Prenni, P Liu*, DP Schachtman. (2024) Root-associated bacterial communities and root metabolite composition are linked to nitrogen use efficiency in sorghum. mSystems 9:e01190-23"
+title: "YN Chai, Y Qi*, E Goren*, D Chiniquy, AM Sheflin, SG Tringe, JE Prenni, P Liu*, DP Schachtman (2024). Root-associated bacterial communities and root metabolite composition are linked to nitrogen use efficiency in sorghum. mSystems 9:e01190-23"
 url_custom:
 - name: Link
   url: https://doi.org/10.1128/msystems.01190-23
