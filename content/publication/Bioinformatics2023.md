@@ -18,7 +18,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "Z Qiao*, E Barnes, S Tringe, D Schachtman, P Liu* (2023). Poisson hurdle model-based method for clustering microbiome features. Bioinformatics."
+title: "Z. Qiao*, E. Barnes, S. Tringe, D. Schachtman, P. Liu* (2023). Poisson hurdle model-based method for clustering microbiome features. Bioinformatics."
 url_custom:
 - name: Link
   url: https://doi.org/10.1093/bioinformatics/btac782
