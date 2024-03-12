@@ -15,7 +15,7 @@ header:
   image: headers/bubbles-wide.jpg
 image_preview: ""
 math: true
-publication: In *Frontiers in Plant Science*.
+publication: In *Frontiers in Veterinary Science*.
 publication_short: In *Frontiers*
 publication_types:
 - "2"
