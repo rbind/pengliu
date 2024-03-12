@@ -19,7 +19,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: true
-title: "X. Zheng, H-C Huang, W. Li, P. Liu, Q-Z Li, and Y. Liu (2007). Modeling nonlinearity in dilution design microarray data. Bioinformatics, 23(11):1339-1347."
+title: "X. Zheng, H-C Huang, W. Li, P. Liu*, Q-Z Li, and Y. Liu (2007). Modeling nonlinearity in dilution design microarray data. Bioinformatics, 23(11):1339-1347."
 url_code: ''
 url_custom:
 - name: Link

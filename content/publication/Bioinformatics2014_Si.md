@@ -17,7 +17,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "Y. Si, P. Liu*, P. Li, and T. Brutnell (2014). Model-based clustering of RNA-seq data. Bioinformatics, 30(2):197-205."
+title: "Y. Si*, P. Liu*, P. Li, and T. Brutnell (2014). Model-based clustering of RNA-seq data. Bioinformatics, 30(2):197-205."
 url_custom:
 - name: Link
   url: https://academic.oup.com/bioinformatics/article/30/2/197/217752

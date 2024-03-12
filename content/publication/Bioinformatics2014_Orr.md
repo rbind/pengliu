@@ -16,7 +16,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "M. Orr, P. Liu, and D. Nettleton (2014). An Improved Method for Computing Q-values when the Distribution of Effect Sizes is Asymmetric. Bioinformatics, 30(21):3044-3053."
+title: "M. Orr*, P. Liu*, and D. Nettleton (2014). An Improved Method for Computing Q-values when the Distribution of Effect Sizes is Asymmetric. Bioinformatics, 30(21):3044-3053."
 url_custom:
 - name: Link
   url: https://www.ncbi.nlm.nih.gov/pubmed/25024290

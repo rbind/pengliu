@@ -18,7 +18,7 @@ publication_short: In *Bioinformatics*
 publication_types:
 - "2"
 selected: false
-title: "F. Liu, C. Wang, Z. Wu, Q. Zhang, and P. Liu* (2016). A Zero-Inflated Poisson Model for Insertion Tolerance Analysis of Genes Based on Tn-seq Data. Bioinformatics, 32(11): 1701-1708."
+title: "F. Liu*, C. Wang, Z. Wu, Q. Zhang, and P. Liu* (2016). A Zero-Inflated Poisson Model for Insertion Tolerance Analysis of Genes Based on Tn-seq Data. Bioinformatics, 32(11): 1701-1708."
 url_custom:
 - name: Link
   url: https://academic.oup.com/bioinformatics/article/32/11/1701/1743177
